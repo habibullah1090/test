@@ -1,2 +1,3 @@
-print('Hello Worls')
+import os
+print(os.listdir())
 
